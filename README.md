@@ -2,7 +2,7 @@
 
 #### _Code Review Week 1, 08.03.2018_
 
-#### By _**Kate**_
+#### By _**Kate Goss**_
 
 ## Description
 
