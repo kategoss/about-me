@@ -8,9 +8,10 @@ h1 {
   text-align: center;
   background-color: #dbecfc;
   padding: 20px;
+  font-weight: 800;
 }
 
-h4 {
+h3 {
   text-align: center;
 }
 
@@ -20,6 +21,7 @@ h4 {
   border-width: large;
   max-width: 200px;
   max-height: 200px;
+  margin: 40px:
   align-content: center;
 }
 
@@ -31,4 +33,8 @@ ul {
 p {
   padding: 10px;
   margin: 10px;
+}
+
+.indent {
+  text-indent: 6%;
 }
