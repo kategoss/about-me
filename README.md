@@ -1,4 +1,4 @@
-# _About Me_
+# About Me
 
 #### _Code Review Week 1, 08.03.2018_
 
