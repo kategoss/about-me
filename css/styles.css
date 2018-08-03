@@ -14,6 +14,7 @@ h2 {
   font-size: 60px;
   color: #5b5851;
 }
+
 h3 {
   text-align: center;
 }
@@ -34,7 +35,6 @@ p {
   max-width: 300px;
   max-height: 300px;
   margin: 40px:
-  float: center;
 }
 
 .jumbotron {
