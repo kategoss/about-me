@@ -1,10 +1,13 @@
 body {
   font-family: helvetica;
   background-color: #d4d6d8;
+  margin: 20px;
 }
 
 h1 {
   text-align: center;
+  background-color: #dbecfc;
+  padding: 20px;
 }
 
 h4 {
