@@ -4,11 +4,12 @@ body {
   margin: 20px;
 }
 
-h1 {
+.jumbotron {
   text-align: center;
-  background-color: #dbecfc;
+  background-color: #abb8c6;
   padding: 20px;
   font-weight: 800;
+  border: solid grey 5px;
 }
 
 h3 {
