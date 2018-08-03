@@ -44,10 +44,16 @@ p {
   color: #608e5b;
 }
 
+.column {
+  width: 300px;
+  float: left
+}
+
 .col-md-3 {
   font-family: gill sans;
 }
 
 .col-md-3 h4 {
   font-weight: 600;
+  background-color: white;
 }
