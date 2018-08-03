@@ -1,5 +1,6 @@
-.body {
+body {
   font-family: helvetica;
+  background-color: #d4d6d8;
 }
 
 h1 {
@@ -12,6 +13,8 @@ h4 {
 
 #intro-photo {
   border: solid;
+  border-color: #48617a;
+  border-width: large;
   max-width: 200px;
   max-height: 200px;
   align-content: center;
@@ -19,4 +22,10 @@ h4 {
 
 ul {
   line-height: 1.5;
+  background-color: light grey;
+}
+
+p {
+  padding: 10px;
+  margin: 10px;
 }
