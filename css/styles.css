@@ -29,6 +29,7 @@ p {
   max-width: 200px;
   max-height: 200px;
   margin: 40px:
+  float:center;
 }
 
 .jumbotron {
@@ -40,13 +41,7 @@ p {
 }
 
 .emphasis {
-  font-style: oblique;
   color: #608e5b;
-}
-
-.column {
-  width: 300px;
-  float: left
 }
 
 .col-md-3 {
@@ -56,4 +51,5 @@ p {
 .col-md-3 h4 {
   font-weight: 600;
   background-color: white;
+  text-align: center;
 }
