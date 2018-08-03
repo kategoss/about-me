@@ -31,10 +31,14 @@ ul {
 }
 
 p {
-  padding: 10px;
-  margin: 10px;
+  padding: 8px;
+  margin: 8px;
 }
 
 .indent {
   text-indent: 6%;
+}
+
+.col-md-3 {
+  font-family: gill sans;
 }
